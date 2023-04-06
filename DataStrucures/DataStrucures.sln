@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStrucures", "DataStrucures.csproj", "{9221BE1A-7B20-4581-BF10-0D18999C82AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL", "..\SQL\SQL.csproj", "{BBB2FE5C-4521-469A-BFF4-623217139879}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\SQL\Data.csproj", "{BBB2FE5C-4521-469A-BFF4-623217139879}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularWeb", "..\AngularWeb\AngularWeb.csproj", "{0A42BA35-BDE5-4F13-9711-E9DACD23CFA6}"
 EndProject
