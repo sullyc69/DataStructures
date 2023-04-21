@@ -8,5 +8,22 @@ namespace DataStrucures
 {
     public class Sorts
     {
+        //Selection Sort
+
+        //Insertion Sort
+
+
+        //Bubble Sort
+
+
+        //Quick Sort
+
+
+        //Merge Sort
+
+
+        //Heap Sort
+
+
     }
 }

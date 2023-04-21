@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStrucures", "DataStrucures.csproj", "{9221BE1A-7B20-4581-BF10-0D18999C82AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStrucures", "DataStrucures.csproj", "{9221BE1A-7B20-4581-BF10-0D18999C82AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\SQL\Data.csproj", "{BBB2FE5C-4521-469A-BFF4-623217139879}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "..\SQL\Data.csproj", "{BBB2FE5C-4521-469A-BFF4-623217139879}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularWeb", "..\AngularWeb\AngularWeb.csproj", "{0A42BA35-BDE5-4F13-9711-E9DACD23CFA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularWeb", "..\AngularWeb\AngularWeb.csproj", "{0A42BA35-BDE5-4F13-9711-E9DACD23CFA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactWeb", "..\ReactWeb\ReactWeb.csproj", "{345637B0-F25B-423F-B498-355C1683EEC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactWeb", "..\ReactWeb\ReactWeb.csproj", "{345637B0-F25B-423F-B498-355C1683EEC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestfulEndpoints", "..\RestfulEndpoints\RestfulEndpoints.csproj", "{90686E63-F6E8-429B-A190-28D7CEC36867}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestfulEndpoints", "..\RestfulEndpoints\RestfulEndpoints.csproj", "{90686E63-F6E8-429B-A190-28D7CEC36867}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "..\Tests\Tests.csproj", "{E9F4C994-AC16-4B87-A36C-F529C0E232DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunCogTyp", "..\FunCogTyp\FunCogTyp.csproj", "{096D0A81-733D-46FC-9CFE-A528321C6642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalServices", "..\ExternalServices\ExternalServices.csproj", "{5ABE121D-B074-45AB-8B92-7B1F4D657038}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{90686E63-F6E8-429B-A190-28D7CEC36867}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90686E63-F6E8-429B-A190-28D7CEC36867}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90686E63-F6E8-429B-A190-28D7CEC36867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9F4C994-AC16-4B87-A36C-F529C0E232DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F4C994-AC16-4B87-A36C-F529C0E232DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F4C994-AC16-4B87-A36C-F529C0E232DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F4C994-AC16-4B87-A36C-F529C0E232DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096D0A81-733D-46FC-9CFE-A528321C6642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096D0A81-733D-46FC-9CFE-A528321C6642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096D0A81-733D-46FC-9CFE-A528321C6642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096D0A81-733D-46FC-9CFE-A528321C6642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ABE121D-B074-45AB-8B92-7B1F4D657038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABE121D-B074-45AB-8B92-7B1F4D657038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABE121D-B074-45AB-8B92-7B1F4D657038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABE121D-B074-45AB-8B92-7B1F4D657038}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
